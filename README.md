@@ -1,4 +1,5 @@
-# STPO (Multi-strategy Enhanced Stork Optimization Algorithm)
+# STPO 
+
 
 STPO (Multi-strategy Enhanced Stork Optimization Algorithm) is an improved version of the Stork Optimization (PO) algorithm. Its core optimization strategies are as follows:
 
