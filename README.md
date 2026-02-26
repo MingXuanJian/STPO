@@ -24,3 +24,4 @@ The STPO algorithm has been tested on benchmark function datasets including CEC2
 - **App Version**: 6.0 (Optimization Algorithm Testing Platform)
 
 The source files for the STPO code and a simple test function are provided below to help you conduct preliminary performance testing.
+- The STPO compressed package is provided for download.
